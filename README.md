@@ -7,8 +7,11 @@ The frontend is built using Pug templates.
 Getting started:
 Install the following dependencies -> 
 Express - npm install express --save
-Body-parser - npm install body-parser --save   
-Cookie parser - npm install cookie-parser --save   
+
+Body-parser - npm install body-parser --save  
+
+Cookie parser - npm install cookie-parser --save  
+
 Nodemon - npm install -g nodemon
 
 To start the app, type 'nodemon' in the command line
