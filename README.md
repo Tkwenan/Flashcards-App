@@ -15,6 +15,7 @@ Cookie parser - npm install cookie-parser --save
 Nodemon - npm install -g nodemon
 
 To start the app, type 'nodemon' in the command line
+
 To view the app, go to http://localhost:3000/
 
 See a screenshot of the app below.
